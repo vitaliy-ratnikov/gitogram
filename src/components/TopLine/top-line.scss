@@ -1,0 +1,17 @@
+.top-line {
+  padding: 43px 0 33px 0;
+  background: $bg_top;
+  box-shadow: 0px 0.33px 0px rgba(60, 60, 67, 0.29);
+
+  &__content {
+    margin-top: 43px;
+  }
+}
+
+.top-line-head {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+

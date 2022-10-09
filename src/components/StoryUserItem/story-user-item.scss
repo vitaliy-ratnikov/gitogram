@@ -1,0 +1,17 @@
+.story-user-item {
+  &__name {
+    margin-top: 10px;
+  }
+}
+
+.story-user-item-avatar {
+  border-radius: 50%;
+  border: 2px solid #A6328D;
+  padding: 6px;
+  transition: .2s ease-in-out;
+
+  &:hover {
+    border-color: transparent;
+  }
+}
+

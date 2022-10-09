@@ -1,0 +1,25 @@
+.post-item {
+  display: flex;
+  flex-direction: column;
+
+  &__topic {
+    margin-top: 16px;
+  }
+}
+
+.post-item-avatar {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+
+  &__img {
+    width: 44px;
+    height: 44px;
+  }
+
+  &__caption {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "username": "joshua_l",
+    "avatar": "img/story-items/Josh.png",
+    "title": "Vue.js",
+    "description": "<b>JavaScript</b> framework for building interactive web applications ⚡",
+    "starInfo": "156k",
+    "forkInfo": "4",
+    "date": "15 may"
+  },
+  {
+    "id": "1",
+    "username": "Camille",
+    "avatar": "img/story-items/Camille.png",
+    "title": "React.js",
+    "description": "<b>Open source</b> JavaScript library used for designing user interfaces",
+    "starInfo": "156k",
+    "forkInfo": "4",
+    "date": "15 may"
+  }
+]
