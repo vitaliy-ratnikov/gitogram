@@ -1,4 +1,4 @@
-# gitogram
+# gitogram project
 
 ## Project setup
 ```
@@ -32,3 +32,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Live example: https://gitogram.rvdev.ru/
