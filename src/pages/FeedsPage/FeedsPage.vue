@@ -50,7 +50,6 @@
 <script>
 import TopLine from '@/components/TopLine/TopLine'
 import StoryUserItem from '@/components/StoryUserItem/StoryUserItem'
-import stories from './data.json'
 import posts from './postData.json'
 import storyUsers from './storyUsersData.json'
 import PostItem from '@/components/PostItem/PostItem'
@@ -72,7 +71,6 @@ export default {
   },
   data () {
     return {
-      stories,
       posts,
       shown: false,
       storyUsers
